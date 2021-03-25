@@ -16,3 +16,5 @@ TODOアプリを作りましょう
 - title / name : string
 - deadline: date
 - favorite: boolean
+
+ref: https://typescript-jp.gitbook.io/deep-dive/type-system#purimitibuprimitive-types
