@@ -19,3 +19,8 @@ todo必要項目
 - favorite: boolean
 
 ref: https://typescript-jp.gitbook.io/deep-dive/type-system#purimitibuprimitive-types
+
+## Rules
+
+- script：TypeScript
+- style：scopedを指定
