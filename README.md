@@ -11,7 +11,8 @@ npm install
 TODOアプリを作りましょう
 
 ### step1：型の勉強
-表示項目
+
+todo必要項目
 - id: number
 - title / name : string
 - deadline: date
