@@ -18,11 +18,11 @@ todo必要項目
 - deadline: date
 - favorite: boolean
 
-これらを<script>で宣言して画面に表示できたらOK
+これらを`<script>`内で宣言して画面に表示できたらOK
 
 ref: https://typescript-jp.gitbook.io/deep-dive/type-system#purimitibuprimitive-types
 
 ## Rules
 
-- script：TypeScript
-- style：scopedを指定
+- `<script>`：TypeScript
+- `<style>`：scopedを指定
