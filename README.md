@@ -10,13 +10,15 @@ npm install
 ## 要件
 TODOアプリを作りましょう
 
-### step1：型の勉強
+### step1：画面に表示しよう
 
 todo必要項目
 - id: number
 - title / name : string
 - deadline: date
 - favorite: boolean
+
+これらを<script>で宣言して画面に表示できたらOK
 
 ref: https://typescript-jp.gitbook.io/deep-dive/type-system#purimitibuprimitive-types
 
