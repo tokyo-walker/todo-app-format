@@ -22,6 +22,10 @@ todo必要項目
 
 ref: https://typescript-jp.gitbook.io/deep-dive/type-system#purimitibuprimitive-types
 
+### step2：todo型の作成をする
+
+interface, typeなどを使って
+
 ## Rules
 
 - `<script>`：TypeScript
